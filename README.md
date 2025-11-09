@@ -47,7 +47,7 @@ En este módulo me enfoqué en el lenguaje **Python**, aplicándolo al análisis
 - Cálculo de estadísticas descriptivas y generación de reportes.
 
 📜 **Certificado del módulo:**  
-[📄 Ver certificado Python](./certificados/certificado-python.pdf)
+[📄 Ver certificado Python](./Certificados/certificado-python.pdf)
 
 ---
 
