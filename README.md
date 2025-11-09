@@ -28,7 +28,7 @@ En este primer módulo aprendí los fundamentos del análisis de datos utilizand
 
 
 📜 **Certificado del módulo:**  
-[📄 Ver certificado SQL](./certificados/certificado-sql.pdf)
+[📄 Ver certificado SQL](./Certificados/certificacion-aprobacion-de-carrera-nuevo-visualizacion-y-comunicacion-de-insights-g106-20606(3).pdf)
 
 ---
 
